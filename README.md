@@ -1,6 +1,6 @@
-# vue-g6
+# my-vue
 
-> A Vue.js project
+> vue脚手架搭建及开发
 
 ## Build Setup
 
